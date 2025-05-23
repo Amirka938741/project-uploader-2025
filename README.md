@@ -17,7 +17,7 @@
 
 ## 📷 Preview
 
-![Preview](https://raw.githubusercontent.com/youruser/yourrepo/main/preview.png)
+![Preview](blob:https://github.com/1e282cc6-de86-4518-8fe3-7b0bfd812fb4)
 
 ## 📘 How to Use
 
